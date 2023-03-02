@@ -1,6 +1,6 @@
 ### Bienvenidos 👋
 
-<p align = center ><img src="https://i.imgur.com/j70CniH.png"> </p>
+<p><img src="https://i.imgur.com/j70CniH.png"> </p>
 
 <div>
 
