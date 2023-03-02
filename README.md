@@ -34,7 +34,7 @@
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
  <br/>
   
-<h2> / contacto / </h2>
+<h2> / contáctame / </h2>
 
   - 📫 email: hermeschacon@live.com.ar
   - <a href="https://www.linkedin.com/in/hermesch/"><img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> /hermesch/
